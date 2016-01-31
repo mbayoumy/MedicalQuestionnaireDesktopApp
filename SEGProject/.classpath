@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
